@@ -1,7 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9212843c-0391-4517-83c5-4417f90bb3de" name="Default" comment="" />
+    <list default="true" id="9212843c-0391-4517-83c5-4417f90bb3de" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.0.1/fileContent/annotation-processors.bin" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.0.1/fileContent/fileContent.lock" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.0.1/fileHashes/fileHashes.bin" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.0.1/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/.gradle/4.0.1/fileHashes/fileHashes.lock" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.0.1/fileHashes/resourceHashesCache.bin" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.0.1/taskHistory/fileSnapshots.bin" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.0.1/taskHistory/taskHistory.bin" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.0.1/taskHistory/taskHistory.lock" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/bala/c4/Main.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/bala/c4/Trade.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/org/bala/c4/CucumberRunner.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/org/bala/c4/ParameterTypes$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/org/bala/c4/ParameterTypes$Transformer.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/org/bala/c4/ParameterTypes.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/org/bala/c4/StepDefinitions.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/libs/suba.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/Volume#20weighted#20average#20price.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/org.bala.c4.CucumberRunner.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/css/base-style.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/css/style.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/js/report.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/default-package.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/org.bala.c4.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/resources/test/org/bala/c4/vwap.feature" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-Volume#20weighted#20average#20price.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-org.bala.c4.CucumberRunner.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/jar/MANIFEST.MF" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/org/bala/c4/Main.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/org/bala/c4/Trade.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/org/bala/c4/CucumberRunner.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/org/bala/c4/ParameterTypes$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/org/bala/c4/ParameterTypes$Transformer.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/org/bala/c4/ParameterTypes.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/org/bala/c4/StepDefinitions.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/test/resources/org/bala/c4/vwap.feature" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/bala/c4/CucumberRunner.java" afterPath="$PROJECT_DIR$/src/test/java/org/bala/c4/CucumberRunner.java" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/bala/c4/StepDefinitions.java" afterPath="$PROJECT_DIR$/src/test/java/org/bala/c4/StepDefinitions.java" />
+    </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -42,7 +87,7 @@
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/org/bala/c4/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
+            <state relative-caret-position="0">
               <caret line="7" column="25" lean-forward="false" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -53,11 +98,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CucumberRunner.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="CucumberRunner.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/org/bala/c4/CucumberRunner.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="7" column="33" lean-forward="false" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
+            <state relative-caret-position="225">
+              <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -65,15 +110,15 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="StepDefinitions.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="StepDefinitions.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/org/bala/c4/StepDefinitions.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="475">
-              <caret line="19" column="30" lean-forward="false" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
+              <caret line="19" column="54" lean-forward="false" selection-start-line="19" selection-start-column="54" selection-end-line="19" selection-end-column="54" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#734#735#0" expanded="true" />
-                <element signature="e#776#777#0" expanded="true" />
+                <element signature="e#837#838#0" expanded="true" />
+                <element signature="e#879#880#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -83,7 +128,7 @@
         <entry file="file://$PROJECT_DIR$/src/test/resources/org/bala/c4/vwap.feature">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="100">
-              <caret line="4" column="51" lean-forward="true" selection-start-line="4" selection-start-column="51" selection-end-line="4" selection-end-column="51" />
+              <caret line="4" column="51" lean-forward="false" selection-start-line="4" selection-start-column="51" selection-end-line="4" selection-end-column="51" />
               <folding />
             </state>
           </provider>
@@ -112,8 +157,8 @@
       <file leaf-file-name="ParameterTypes.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/org/bala/c4/ParameterTypes.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="19" lean-forward="false" selection-start-line="0" selection-start-column="19" selection-end-line="0" selection-end-column="19" />
+            <state relative-caret-position="475">
+              <caret line="19" column="13" lean-forward="false" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#773#774#0" expanded="true" />
@@ -131,6 +176,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="myGradleHomes">
@@ -491,9 +539,10 @@
         <option value="$PROJECT_DIR$/src/test/java/org/bala/c4/Trade.java" />
         <option value="$PROJECT_DIR$/src/test/resources/org/bala/c4/vwap.feature" />
         <option value="$PROJECT_DIR$/src/main/java/org/bala/c4/Trade.java" />
-        <option value="$PROJECT_DIR$/src/test/java/org/bala/c4/StepDefinitions.java" />
         <option value="$PROJECT_DIR$/src/test/java/org/bala/c4/ParameterTypes.java" />
+        <option value="$PROJECT_DIR$/src/test/java/org/bala/c4/StepDefinitions.java" />
         <option value="$PROJECT_DIR$/src/test/java/org/bala/c4/CucumberRunner.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -503,6 +552,7 @@
     <option name="width" value="1938" />
     <option name="height" value="1028" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -530,64 +580,7 @@
             <path>
               <item name="suba" type="b2602c69:ProjectViewProjectNode" />
               <item name="suba" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="suba" type="b2602c69:ProjectViewProjectNode" />
-              <item name="suba" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="suba" type="b2602c69:ProjectViewProjectNode" />
-              <item name="suba" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="suba" type="b2602c69:ProjectViewProjectNode" />
-              <item name="suba" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="c4" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="suba" type="b2602c69:ProjectViewProjectNode" />
-              <item name="suba" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="suba" type="b2602c69:ProjectViewProjectNode" />
-              <item name="suba" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="suba" type="b2602c69:ProjectViewProjectNode" />
-              <item name="suba" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="c4" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="suba" type="b2602c69:ProjectViewProjectNode" />
-              <item name="suba" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="suba" type="b2602c69:ProjectViewProjectNode" />
-              <item name="suba" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="c4" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -791,27 +784,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="CucumberRunner - 2018.12.27 at 14h 50m 03s.xml">
-      <configuration name="CucumberRunner" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CucumberRunner - 2018.12.27 at 14h 50m 44s.xml">
-      <configuration name="CucumberRunner" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CucumberRunner - 2018.12.27 at 14h 54m 02s.xml">
-      <configuration name="CucumberRunner" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CucumberRunner - 2018.12.27 at 14h 56m 42s.xml">
-      <configuration name="CucumberRunner" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CucumberRunner - 2018.12.27 at 14h 58m 53s.xml">
-      <configuration name="CucumberRunner" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CucumberRunner - 2018.12.27 at 15h 03m 25s.xml">
-      <configuration name="CucumberRunner" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CucumberRunner - 2018.12.27 at 15h 05m 07s.xml">
-      <configuration name="CucumberRunner" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="CucumberRunner - 2018.12.27 at 15h 30m 48s.xml">
       <configuration name="CucumberRunner" configurationId="JUnit" />
     </history-entry>
@@ -819,6 +791,27 @@
       <configuration name="CucumberRunner" configurationId="JUnit" />
     </history-entry>
     <history-entry file="CucumberRunner - 2018.12.27 at 15h 38m 37s.xml">
+      <configuration name="CucumberRunner" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CucumberRunner - 2018.12.27 at 16h 15m 44s.xml">
+      <configuration name="CucumberRunner" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CucumberRunner - 2018.12.27 at 16h 19m 02s.xml">
+      <configuration name="CucumberRunner" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CucumberRunner - 2018.12.27 at 16h 19m 45s.xml">
+      <configuration name="CucumberRunner" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CucumberRunner - 2018.12.27 at 16h 27m 57s.xml">
+      <configuration name="CucumberRunner" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CucumberRunner - 2018.12.27 at 16h 30m 03s.xml">
+      <configuration name="CucumberRunner" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CucumberRunner - 2018.12.27 at 16h 30m 33s.xml">
+      <configuration name="CucumberRunner" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CucumberRunner - 2018.12.27 at 16h 31m 22s.xml">
       <configuration name="CucumberRunner" configurationId="JUnit" />
     </history-entry>
   </component>
@@ -834,8 +827,8 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.562954" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.56257594" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -892,8 +885,8 @@
           <caret line="17" column="37" lean-forward="false" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#734#735#0" expanded="true" />
-            <element signature="e#776#777#0" expanded="true" />
+            <element signature="e#837#838#0" expanded="true" />
+            <element signature="e#879#880#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -962,8 +955,8 @@
           <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#734#735#0" expanded="true" />
-            <element signature="e#776#777#0" expanded="true" />
+            <element signature="e#837#838#0" expanded="true" />
+            <element signature="e#879#880#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -990,7 +983,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/org/bala/c4/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
+        <state relative-caret-position="0">
           <caret line="7" column="25" lean-forward="false" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1019,27 +1012,15 @@
     <entry file="file://$PROJECT_DIR$/src/test/resources/org/bala/c4/vwap.feature">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
-          <caret line="4" column="51" lean-forward="true" selection-start-line="4" selection-start-column="51" selection-end-line="4" selection-end-column="51" />
+          <caret line="4" column="51" lean-forward="false" selection-start-line="4" selection-start-column="51" selection-end-line="4" selection-end-column="51" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/org/bala/c4/StepDefinitions.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="19" column="30" lean-forward="false" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#734#735#0" expanded="true" />
-            <element signature="e#776#777#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/org/bala/c4/ParameterTypes.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="19" lean-forward="false" selection-start-line="0" selection-start-column="19" selection-end-line="0" selection-end-column="19" />
+        <state relative-caret-position="475">
+          <caret line="19" column="13" lean-forward="false" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#773#774#0" expanded="true" />
@@ -1050,10 +1031,30 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/org/bala/c4/CucumberRunner.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="33" lean-forward="false" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
+        <state relative-caret-position="225">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/org/bala/c4/StepDefinitions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="19" column="54" lean-forward="false" selection-start-line="19" selection-start-column="54" selection-end-line="19" selection-end-column="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#837#838#0" expanded="true" />
+            <element signature="e#879#880#0" expanded="true" />
           </folding>
         </state>
       </provider>

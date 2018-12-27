@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="Volume weighted average price" tests="1" skipped="0" failures="0" errors="0" timestamp="2018-12-27T15:35:18" hostname="DESKTOP-ENOVI8J" time="0.084">
-  <properties/>
-  <testcase name="Simple test" classname="Volume weighted average price" time="0.084"/>
-  <system-out><![CDATA[15:35:18.267 [Test worker] INFO org.bala.c4.StepDefinitions - Trades count: 3
-15:35:18.285 [Test worker] INFO org.bala.c4.StepDefinitions - vwap: 12.34
-]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
